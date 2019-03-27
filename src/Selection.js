@@ -39,7 +39,7 @@ function getEventCoordinates(e) {
   }
 }
 
-const clickTolerance = 5
+const clickTolerance = 15
 const clickInterval = 250
 
 class Selection {
